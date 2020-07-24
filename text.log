@@ -1,0 +1,556 @@
+2020/07/28 11:45:44 DOWN: 0
+2020/07/28 11:45:44 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:50:05 DOWN: 0
+2020/07/28 11:50:05 domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:50:06 DOWN: 1
+2020/07/28 11:50:06 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:50:07 DOWN: 2
+2020/07/28 11:50:07 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:50:07 DOWN: 3
+2020/07/28 11:50:07 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:50:08 UP: 4
+2020/07/28 11:50:08 UP: 3
+2020/07/28 11:50:09 UP: 2
+2020/07/28 11:50:09 UP: 1
+2020/07/28 11:50:10 UP: 0
+2020/07/28 11:50:10 UP: 0
+2020/07/28 11:50:11 DOWN: 0
+2020/07/28 11:50:11 domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:50:11 DOWN: 1
+2020/07/28 11:50:11 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:50:12 DOWN: 2
+2020/07/28 11:50:12 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:50:12 DOWN: 3
+2020/07/28 11:50:12 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:50:13 DOWN: 4
+2020/07/28 11:50:13 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:50:13 DOWN: 5
+2020/07/28 11:50:13 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:50:14 UP: 6
+2020/07/28 11:53:19 DOWN: 0
+2020/07/28 11:53:19 domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:19 DOWN: 1
+2020/07/28 11:53:19 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:20 DOWN: 2
+2020/07/28 11:53:20 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:20 DOWN: 3
+2020/07/28 11:53:20 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:21 UP: 4
+2020/07/28 11:53:21 UP: 3
+2020/07/28 11:53:22 UP: 2
+2020/07/28 11:53:23 DOWN: 1
+2020/07/28 11:53:23 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:23 DOWN: 2
+2020/07/28 11:53:23 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:24 DOWN: 3
+2020/07/28 11:53:24 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:24 UP: 4
+2020/07/28 11:53:25 UP: 3
+2020/07/28 11:53:25 UP: 2
+2020/07/28 11:53:26 UP: 1
+2020/07/28 11:53:27 UP: 0
+2020/07/28 11:53:27 UP: 0
+2020/07/28 11:53:27 UP: 0
+2020/07/28 11:53:27 UP: 0
+2020/07/28 11:53:27 UP: 0
+2020/07/28 11:53:28 UP: 0
+2020/07/28 11:53:28 UP: 0
+2020/07/28 11:53:28 UP: 0
+2020/07/28 11:53:28 DOWN: 0
+2020/07/28 11:53:28 domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:28 DOWN: 1
+2020/07/28 11:53:28 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:28 DOWN: 2
+2020/07/28 11:53:28 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:29 DOWN: 3
+2020/07/28 11:53:29 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:29 DOWN: 4
+2020/07/28 11:53:29 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:29 DOWN: 5
+2020/07/28 11:53:29 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:30 UP: 6
+2020/07/28 11:53:30 UP: 5
+2020/07/28 11:53:30 UP: 4
+2020/07/28 11:53:30 UP: 3
+2020/07/28 11:53:31 UP: 2
+2020/07/28 11:53:31 DOWN: 1
+2020/07/28 11:53:31 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:31 DOWN: 2
+2020/07/28 11:53:31 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:31 DOWN: 3
+2020/07/28 11:53:31 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:32 DOWN: 4
+2020/07/28 11:53:32 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:32 DOWN: 5
+2020/07/28 11:53:32 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:53:32 DOWN: 6
+2020/07/28 11:56:20 DOWN: 0
+2020/07/28 11:56:20 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:56:20 DOWN: 1
+2020/07/28 11:56:20 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:56:21 DOWN: 2
+2020/07/28 11:56:21 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:56:22 DOWN: 3
+2020/07/28 11:56:22 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:56:23 UP: 4
+2020/07/28 11:56:23 UP: 3
+2020/07/28 11:56:24 UP: 2
+2020/07/28 11:56:24 UP: 1
+2020/07/28 11:56:25 UP: 0
+2020/07/28 11:56:25 DOWN: 0
+2020/07/28 11:56:25 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:56:25 DOWN: 1
+2020/07/28 11:56:25 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:56:25 DOWN: 2
+2020/07/28 11:56:25 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:56:26 DOWN: 3
+2020/07/28 11:56:26 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:56:26 DOWN: 4
+2020/07/28 11:56:26 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:56:26 DOWN: 5
+2020/07/28 11:56:26 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 11:56:26 DOWN: 6
+2020/07/28 12:07:11 DOWN: 0
+2020/07/28 12:07:11 domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:11 DOWN: 1
+2020/07/28 12:07:11 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:11 DOWN: 2
+2020/07/28 12:07:11 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:12 DOWN: 3
+2020/07/28 12:07:12 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:12 DOWN: 4
+2020/07/28 12:07:12 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:13 DOWN: 5
+2020/07/28 12:07:13 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:13 DOWN: 6
+2020/07/28 12:07:13 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:14 DOWN: 6
+2020/07/28 12:07:14 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:14 DOWN: 6
+2020/07/28 12:07:14 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:14 DOWN: 6
+2020/07/28 12:07:14 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:14 DOWN: 6
+2020/07/28 12:07:14 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:14 DOWN: 6
+2020/07/28 12:07:14 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:15 DOWN: 6
+2020/07/28 12:07:15 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:15 DOWN: 6
+2020/07/28 12:07:15 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:15 DOWN: 6
+2020/07/28 12:07:15 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:15 DOWN: 6
+2020/07/28 12:07:15 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:15 DOWN: 6
+2020/07/28 12:07:15 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:15 DOWN: 6
+2020/07/28 12:07:15 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:15 DOWN: 6
+2020/07/28 12:07:15 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:16 DOWN: 6
+2020/07/28 12:07:16 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:16 DOWN: 6
+2020/07/28 12:07:16 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:16 UP: 6
+2020/07/28 12:07:17 UP: 5
+2020/07/28 12:07:17 UP: 4
+2020/07/28 12:07:18 UP: 3
+2020/07/28 12:07:18 UP: 2
+2020/07/28 12:07:19 UP: 1
+2020/07/28 12:07:19 UP: 0
+2020/07/28 12:07:19 UP: 0
+2020/07/28 12:07:19 UP: 0
+2020/07/28 12:07:19 UP: 0
+2020/07/28 12:07:20 UP: 0
+2020/07/28 12:07:20 UP: 0
+2020/07/28 12:07:20 UP: 0
+2020/07/28 12:07:20 UP: 0
+2020/07/28 12:07:20 UP: 0
+2020/07/28 12:07:20 UP: 0
+2020/07/28 12:07:20 UP: 0
+2020/07/28 12:07:20 UP: 0
+2020/07/28 12:07:21 UP: 0
+2020/07/28 12:07:21 UP: 0
+2020/07/28 12:07:21 DOWN: 0
+2020/07/28 12:07:21 domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:21 DOWN: 1
+2020/07/28 12:07:21 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:21 DOWN: 2
+2020/07/28 12:07:21 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:21 DOWN: 3
+2020/07/28 12:07:21 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:21 DOWN: 4
+2020/07/28 12:07:21 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:21 DOWN: 5
+2020/07/28 12:07:21 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:21 DOWN: 6
+2020/07/28 12:07:21 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:21 DOWN: 6
+2020/07/28 12:07:21 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:21 DOWN: 6
+2020/07/28 12:07:21 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:21 DOWN: 6
+2020/07/28 12:07:21 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:22 DOWN: 6
+2020/07/28 12:07:22 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:22 DOWN: 6
+2020/07/28 12:07:22 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:22 DOWN: 6
+2020/07/28 12:07:22 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:22 DOWN: 6
+2020/07/28 12:07:22 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:22 DOWN: 6
+2020/07/28 12:07:22 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:22 DOWN: 6
+2020/07/28 12:07:22 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:22 DOWN: 6
+2020/07/28 12:07:22 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:22 DOWN: 6
+2020/07/28 12:07:22 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:22 DOWN: 6
+2020/07/28 12:07:22 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:23 DOWN: 6
+2020/07/28 12:07:23 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:23 DOWN: 6
+2020/07/28 12:07:23 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:23 DOWN: 6
+2020/07/28 12:07:23 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:23 DOWN: 6
+2020/07/28 12:07:23 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:23 UP: 6
+2020/07/28 12:07:23 UP: 5
+2020/07/28 12:07:24 UP: 4
+2020/07/28 12:07:24 UP: 3
+2020/07/28 12:07:24 UP: 2
+2020/07/28 12:07:24 UP: 1
+2020/07/28 12:07:24 UP: 0
+2020/07/28 12:07:24 UP: 0
+2020/07/28 12:07:24 UP: 0
+2020/07/28 12:07:24 UP: 0
+2020/07/28 12:07:24 UP: 0
+2020/07/28 12:07:24 UP: 0
+2020/07/28 12:07:24 UP: 0
+2020/07/28 12:07:24 UP: 0
+2020/07/28 12:07:24 UP: 0
+2020/07/28 12:07:25 UP: 0
+2020/07/28 12:07:25 UP: 0
+2020/07/28 12:07:25 DOWN: 0
+2020/07/28 12:07:25 domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:25 DOWN: 1
+2020/07/28 12:07:25 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:25 DOWN: 2
+2020/07/28 12:07:25 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:25 DOWN: 3
+2020/07/28 12:07:25 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:25 DOWN: 4
+2020/07/28 12:07:25 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:25 DOWN: 5
+2020/07/28 12:07:25 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:25 DOWN: 6
+2020/07/28 12:07:25 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:25 DOWN: 6
+2020/07/28 12:07:25 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:26 DOWN: 6
+2020/07/28 12:07:26 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:26 DOWN: 6
+2020/07/28 12:07:26 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:26 DOWN: 6
+2020/07/28 12:07:26 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:26 DOWN: 6
+2020/07/28 12:07:26 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:26 DOWN: 6
+2020/07/28 12:07:26 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:26 DOWN: 6
+2020/07/28 12:07:26 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:26 DOWN: 6
+2020/07/28 12:07:26 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:26 DOWN: 6
+2020/07/28 12:07:26 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:26 DOWN: 6
+2020/07/28 12:07:26 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:26 DOWN: 6
+2020/07/28 12:07:26 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:26 DOWN: 6
+2020/07/28 12:07:26 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:26 DOWN: 6
+2020/07/28 12:07:26 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:27 UP: 6
+2020/07/28 12:07:27 UP: 5
+2020/07/28 12:07:27 UP: 4
+2020/07/28 12:07:27 UP: 3
+2020/07/28 12:07:27 UP: 2
+2020/07/28 12:07:27 UP: 1
+2020/07/28 12:07:27 UP: 0
+2020/07/28 12:07:27 UP: 0
+2020/07/28 12:07:27 UP: 0
+2020/07/28 12:07:27 UP: 0
+2020/07/28 12:07:27 UP: 0
+2020/07/28 12:07:27 UP: 0
+2020/07/28 12:07:27 UP: 0
+2020/07/28 12:07:27 UP: 0
+2020/07/28 12:07:28 UP: 0
+2020/07/28 12:07:28 UP: 0
+2020/07/28 12:07:28 UP: 0
+2020/07/28 12:07:28 UP: 0
+2020/07/28 12:07:28 UP: 0
+2020/07/28 12:07:28 DOWN: 0
+2020/07/28 12:07:28 domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:29 DOWN: 1
+2020/07/28 12:07:29 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:29 DOWN: 2
+2020/07/28 12:07:29 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:29 DOWN: 3
+2020/07/28 12:07:29 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:29 DOWN: 4
+2020/07/28 12:07:29 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:29 DOWN: 5
+2020/07/28 12:07:29 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:29 DOWN: 6
+2020/07/28 12:07:29 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:29 DOWN: 6
+2020/07/28 12:07:29 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:29 DOWN: 6
+2020/07/28 12:07:29 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:29 DOWN: 6
+2020/07/28 12:07:29 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:29 DOWN: 6
+2020/07/28 12:07:29 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:29 DOWN: 6
+2020/07/28 12:07:29 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:29 DOWN: 6
+2020/07/28 12:07:29 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:29 DOWN: 6
+2020/07/28 12:07:29 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:29 DOWN: 6
+2020/07/28 12:07:29 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:30 DOWN: 6
+2020/07/28 12:07:30 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:30 DOWN: 6
+2020/07/28 12:07:30 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:07:30 DOWN: 6
+2020/07/28 12:07:30 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:09:55 DOWN: 0
+2020/07/28 12:09:55 domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:09:55 DOWN: 1
+2020/07/28 12:09:55 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:09:56 DOWN: 2
+2020/07/28 12:09:56 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:09:56 DOWN: 3
+2020/07/28 12:09:56 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:09:57 UP: 4
+2020/07/28 12:09:58 UP: 3
+2020/07/28 12:09:58 UP: 2
+2020/07/28 12:09:59 DOWN: 1
+2020/07/28 12:09:59 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:09:59 DOWN: 2
+2020/07/28 12:09:59 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:09:59 DOWN: 3
+2020/07/28 12:09:59 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:10:00 UP: 4
+2020/07/28 12:10:36 DOWN: 0
+2020/07/28 12:10:36 domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:10:37 DOWN: 1
+2020/07/28 12:10:37 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:10:38 DOWN: 2
+2020/07/28 12:10:38 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:10:39 DOWN: 3
+2020/07/28 12:10:39 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:10:50 UP: 4
+2020/07/28 12:12:40 DOWN: 0
+2020/07/28 12:12:40 domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:12:41 DOWN: 1
+2020/07/28 12:12:41 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:12:42 DOWN: 2
+2020/07/28 12:12:42 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:12:42 DOWN: 3
+2020/07/28 12:12:42 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:12:43 UP: 4
+2020/07/28 12:12:43 UP: domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:16:58 DOWN: 0
+2020/07/28 12:16:58 domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:16:59 DOWN: 1
+2020/07/28 12:16:59 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:16:59 DOWN: 2
+2020/07/28 12:16:59 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:17:00 DOWN: 3
+2020/07/28 12:17:00 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:35 DOWN: 0
+2020/07/28 12:18:35 domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:36 DOWN: 1
+2020/07/28 12:18:36 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:36 DOWN: 2
+2020/07/28 12:18:36 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:37 DOWN: 3
+2020/07/28 12:18:37 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:38 UP: 4
+2020/07/28 12:18:38 UP: domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:39 DOWN: 3
+2020/07/28 12:18:39 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:39 UP: 4
+2020/07/28 12:18:39 UP: domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:40 DOWN: 3
+2020/07/28 12:18:40 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:40 DOWN: 4
+2020/07/28 12:18:40 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:41 DOWN: 5
+2020/07/28 12:18:41 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:42 DOWN: 6
+2020/07/28 12:18:42 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:42 DOWN: 6
+2020/07/28 12:18:42 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:42 DOWN: 6
+2020/07/28 12:18:42 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:42 DOWN: 6
+2020/07/28 12:18:42 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:43 UP: 6
+2020/07/28 12:18:43 UP: domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:43 UP: 5
+2020/07/28 12:18:43 UP: domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:44 UP: 4
+2020/07/28 12:18:44 UP: domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:44 UP: 3
+2020/07/28 12:18:44 UP: domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:48 UP: 2
+2020/07/28 12:18:48 UP: domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:18:49 UP: 1
+2020/07/28 12:20:35 DOWN: 0
+2020/07/28 12:20:35 domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:36 DOWN: 1
+2020/07/28 12:20:36 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:37 DOWN: 2
+2020/07/28 12:20:37 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:37 DOWN: 3
+2020/07/28 12:20:37 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:38 DOWN: 4
+2020/07/28 12:20:38 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:38 DOWN: 5
+2020/07/28 12:20:38 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:39 UP: 6
+2020/07/28 12:20:39 UP: domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:39 UP: 5
+2020/07/28 12:20:39 UP: domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:40 UP: 4
+2020/07/28 12:20:40 UP: domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:40 UP: 3
+2020/07/28 12:20:40 UP: domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:40 DOWN: 2
+2020/07/28 12:20:40 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:41 DOWN: 3
+2020/07/28 12:20:41 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:41 DOWN: 4
+2020/07/28 12:20:41 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:41 DOWN: 5
+2020/07/28 12:20:41 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:42 UP: 6
+2020/07/28 12:20:42 UP: domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:42 UP: 5
+2020/07/28 12:20:42 UP: domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:43 UP: 4
+2020/07/28 12:20:43 UP: domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:43 UP: 3
+2020/07/28 12:20:43 UP: domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:44 DOWN: 2
+2020/07/28 12:20:44 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:44 DOWN: 3
+2020/07/28 12:20:44 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:44 DOWN: 4
+2020/07/28 12:20:44 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:44 DOWN: 5
+2020/07/28 12:20:44 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:45 UP: 6
+2020/07/28 12:20:45 UP: domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:45 UP: 5
+2020/07/28 12:20:45 UP: domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:45 UP: 4
+2020/07/28 12:20:45 UP: domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:45 UP: 3
+2020/07/28 12:20:45 UP: domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:46 UP: 2
+2020/07/28 12:20:46 UP: domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:47 DOWN: 1
+2020/07/28 12:20:47 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:47 DOWN: 2
+2020/07/28 12:20:47 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:48 DOWN: 3
+2020/07/28 12:20:48 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:48 UP: 4
+2020/07/28 12:20:48 UP: domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:49 UP: 3
+2020/07/28 12:20:49 UP: domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:49 UP: 2
+2020/07/28 12:20:49 UP: domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:49 UP: 1
+2020/07/28 12:20:51 DOWN: 1
+2020/07/28 12:20:51 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:51 UP: 2
+2020/07/28 12:20:51 UP: domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:52 UP: 1
+2020/07/28 12:20:52 UP: 1
+2020/07/28 12:20:52 UP: 1
+2020/07/28 12:20:52 UP: 1
+2020/07/28 12:20:53 UP: 1
+2020/07/28 12:20:53 UP: 1
+2020/07/28 12:20:53 UP: 1
+2020/07/28 12:20:53 DOWN: 1
+2020/07/28 12:20:53 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:53 DOWN: 2
+2020/07/28 12:20:53 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:54 DOWN: 3
+2020/07/28 12:20:54 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:54 DOWN: 4
+2020/07/28 12:20:54 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:54 DOWN: 5
+2020/07/28 12:20:54 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:55 DOWN: 6
+2020/07/28 12:20:55 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:55 UP: 6
+2020/07/28 12:20:55 UP: domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:55 UP: 5
+2020/07/28 12:20:55 UP: domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:55 UP: 4
+2020/07/28 12:20:55 UP: domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:55 UP: 3
+2020/07/28 12:20:55 UP: domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:56 UP: 2
+2020/07/28 12:20:56 UP: domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:56 DOWN: 1
+2020/07/28 12:20:56 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:56 DOWN: 2
+2020/07/28 12:20:56 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:56 DOWN: 3
+2020/07/28 12:20:56 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:56 DOWN: 4
+2020/07/28 12:20:56 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:57 DOWN: 5
+2020/07/28 12:20:57 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:57 DOWN: 6
+2020/07/28 12:20:57 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:57 DOWN: 6
+2020/07/28 12:20:57 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:57 UP: 6
+2020/07/28 12:20:57 UP: domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:58 UP: 5
+2020/07/28 12:20:58 UP: domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:58 UP: 4
+2020/07/28 12:20:58 UP: domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:58 UP: 3
+2020/07/28 12:20:58 UP: domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:58 UP: 2
+2020/07/28 12:20:58 UP: domain.Task{ID:"2cca6ca1-8a29-482b-819a-387b555f3026", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:20:59 UP: 1
+2020/07/28 12:20:59 UP: 1
+2020/07/28 12:20:59 UP: 1
+2020/07/28 12:20:59 UP: 1
+2020/07/28 12:21:00 DOWN: 1
+2020/07/28 12:21:00 domain.Task{ID:"cb91649c-01ad-4eb7-9022-5c44fed4c82b", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:21:00 DOWN: 2
+2020/07/28 12:21:00 domain.Task{ID:"cef07030-0b21-43ad-8064-526d4af010da", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:21:00 DOWN: 3
+2020/07/28 12:21:00 domain.Task{ID:"dc7c6faf-8d82-423d-b056-ffe6c77d11a1", Description:"I got to know boy the problem", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:21:00 DOWN: 4
+2020/07/28 12:21:00 domain.Task{ID:"f1884805-e62a-4595-9e96-9db845fac399", Description:"", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:21:00 DOWN: 5
+2020/07/28 12:21:00 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
+2020/07/28 12:21:01 DOWN: 6
+2020/07/28 12:21:01 domain.Task{ID:"f32b6698-59d3-474d-a82c-4eecb1734a7f", Description:"Fix it", Tags:[]string{""}, RepeatInterval:"DAILY", Streak:0, Records:[]domain.Record(nil)}
