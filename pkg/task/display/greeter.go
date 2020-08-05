@@ -13,13 +13,14 @@ const (
 
 // Greeter is used to display greeting quotes
 type Greeter struct {
-	clock util.Clock
-	id    string
+	clock        util.Clock
+	id           string
+	redditClient *util.RedditClient
 }
 
 // NewGreeterPane returns a Greeter Pane
-func NewGreeterPane(clock util.Clock, id string) Pane {
-	return &Greeter{clock: clock, id: id}
+func NewGreeterPane(clock util.Clock, id string, client *util.RedditClient) Pane {
+	return &Greeter{clock: clock, id: id, redditClient: client}
 }
 
 // Layout lays out the Greeter pane in gui
@@ -31,7 +32,15 @@ func (g *Greeter) Layout(gui *gocui.Gui, pos Position) error {
 		v.Title = title(g.clock)
 		v.Wrap = true
 		v.Frame = true
-		fmt.Fprintf(v, "%s", Quote)
+		if g.redditClient != nil {
+			title, err := g.redditClient.TopTitle()
+			if err != nil {
+				fmt.Fprintf(v, "%s", Quote)
+			}
+			fmt.Fprintf(v, "%s", title)
+		} else {
+			fmt.Fprintf(v, "%s", Quote)
+		}
 	}
 	return nil
 }

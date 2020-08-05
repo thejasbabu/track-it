@@ -14,6 +14,11 @@ A habit tracking application
 
 2. Run the executable `./track-it`
 
+3. One can also run with a subreddit flag, which allows it to pull top posts from the subreddit. For eg, to return the top posts from the subreddit `r/quotes`, run it as
+
+```
+./track-it -subreddit=quotes
+```
 
 ## Functionality
 

@@ -1,6 +1,7 @@
 package main
 
 import (
+	"flag"
 	"os/user"
 	"path/filepath"
 	"time"
@@ -19,6 +20,9 @@ const (
 )
 
 func main() {
+	var subreddit string
+	flag.StringVar(&subreddit, "subreddit", "", "name of the subreddit to take the tittle from, eg: r/jokes")
+	flag.Parse()
 	dataPath := dataPath()
 	db, err := util.Open(dataPath)
 	panicIfErr(err)
@@ -29,8 +33,14 @@ func main() {
 	gui, err := gocui.NewGui(gocui.Output256)
 	defer gui.Close()
 	panicIfErr(err)
+	var screen display.Screen
+	if subreddit != "" {
+		redditClient := util.RedditClient{SubReddit: subreddit}
+		screen = display.NewScreen(taskOperator, gui, &redditClient)
+	} else {
+		screen = display.NewScreen(taskOperator, gui, nil)
+	}
 
-	screen := display.NewScreen(taskOperator, gui)
 	gui.SetManagerFunc(screen.Display)
 	screen.SetUp(gui)
 	if err := gui.MainLoop(); err != nil && err != gocui.ErrQuit {

@@ -33,7 +33,7 @@ type Screen struct {
 }
 
 // NewScreen returns a new screen obj
-func NewScreen(operator task.Operator, gui *gocui.Gui) Screen {
+func NewScreen(operator task.Operator, gui *gocui.Gui, client *util.RedditClient) Screen {
 	panes := make(map[string]Pane)
 	positions := make(map[string]Position)
 	popups := make(map[string]Popup)
@@ -42,7 +42,7 @@ func NewScreen(operator task.Operator, gui *gocui.Gui) Screen {
 	relY1, relY2 := partitionY(gui)
 	eventChan := make(chan Event)
 
-	panes[GreeterPaneID] = NewGreeterPane(util.SystemClock{}, GreeterPaneID)
+	panes[GreeterPaneID] = NewGreeterPane(util.SystemClock{}, GreeterPaneID, client)
 	positions[GreeterPaneID] = Position{X0: 0, Y0: 0, X1: relX1 - 1, Y1: relY1 - 1}
 	panes[HelperPaneID] = NewHelperPane(HelperPaneID)
 	positions[HelperPaneID] = Position{X0: 0, Y0: relY1, X1: relX1 - 1, Y1: maxY - 1}
